@@ -1,0 +1,23 @@
+Order Date,Region,Category,Product Name,Sales,Profit,Quantity
+2024-01-15,West,Electronics,Smartphone X,1250,312.5,5
+2024-01-20,East,Electronics,Laptop Pro,1890,472.5,3
+2024-01-25,South,Furniture,Office Chair,450,67.5,6
+2024-02-02,North,Furniture,Desk Premium,780,117,4
+2024-02-10,West,Electronics,Tablet Air,890,222.5,7
+2024-02-18,East,Office Supplies,Printer Plus,320,48,2
+2024-02-25,South,Office Supplies,Paper Bundle,180,27,12
+2024-03-05,North,Electronics,Smartwatch,540,135,9
+2024-03-12,West,Furniture,Bookshelf,620,93,5
+2024-03-20,East,Furniture,Sofa Set,2150,322.5,1
+2024-03-28,South,Electronics,Gaming Console,1100,275,4
+2024-04-03,North,Office Supplies,Desk Lamp,240,36,8
+2024-04-15,West,Electronics,Headphones,380,95,10
+2024-04-22,East,Office Supplies,Stapler Set,120,18,6
+2024-04-30,South,Furniture,Dining Table,1850,277.5,2
+2024-05-08,North,Furniture,Cabinet,920,138,3
+2024-05-16,West,Electronics,Monitor 27",680,170,4
+2024-05-24,East,Electronics,Keyboard Pro,190,47.5,5
+2024-06-03,South,Office Supplies,Folder Pack,95,14.25,19
+2024-06-12,North,Office Supplies,Pen Set,150,22.5,15
+2024-06-20,West,Furniture,TV Stand,420,63,7
+2024-06-28,East,Furniture,Coffee Table,580,87,4
